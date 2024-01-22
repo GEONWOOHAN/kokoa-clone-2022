@@ -12,7 +12,6 @@
     box-sizing: border-box;
     transition: color 0.3s ease-in-out;
     color: rgba(0, 0, 0, 0.6);
-    position: relative;
 }
 
 .icon-row__icon:hover {
@@ -25,14 +24,4 @@
 
 .icon-row__icon span {
     margin-top: 18px;
-}
-
-.icon__point {
-    background-color: tomato;
-    width: 5px;
-    height: 5px;
-    border-radius: 2.5px;
-    position: absolute;
-    right: 213px;
-    top: 5px;
 }
